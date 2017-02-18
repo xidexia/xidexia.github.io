@@ -8,9 +8,8 @@ description: Xide Xia is currently a PhD student in the Department of Computer S
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/xide_xia_cv_bu.pdf">cv</a></li>
-          <li><a href="https://github.com/kbroman">github</a></li>
-          <li><a href="http://kbroman.wordpress.com">blog</a></li>
-          <li><a href="https://twitter.com/kwbroman">@kwbroman</a></li>
+          <li><a href="https://github.com/xidexia">github</a></li>
+          <li><a href="http://scholar.harvard.edu/xidexia/home">old website</a></li>
       </ul>
   </div>
 </div>

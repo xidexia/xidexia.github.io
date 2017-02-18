@@ -18,12 +18,11 @@ Since 2013, I've been fortunate to work with Dr. Mohammed AlQuraishi  and Profes
 
     <div class="row-fluid">
         <div class="span5">
-            Karl Broman<br/>
-            <a href="http://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
-            <a href="http://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
-            <a href="http://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
-            425 Henry Mall<br/>
-            Madison, Wisconsin 53706<br/>
+            Xide Xia<br/>
+            <a href="http://www.bu.edu/cs/">Department of Computer Science</a><br/>
+            <a href="http://www.bu.edu">Boston University</a><br/>
+            111 Cummington Mall<br/>
+            Boston, MA 02215<br/>
             USA<br/><br/>
 
             <div id="hide_email">

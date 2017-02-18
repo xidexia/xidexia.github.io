@@ -17,7 +17,7 @@ title: Xide Xia
 <tr>
 <td class="left">
 <a href="http://staging.proteindna.hms.harvard.edu/Global.aspx?ID=0">
-<img src="assets/publpics/pro_pos.jpg" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+<img src="assets/publpics/pro_pos.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
 </a>
 </td>
 <td class="right">

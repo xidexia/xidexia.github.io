@@ -31,9 +31,9 @@ USA<br/><br/>
 </div>
 
 <div class="span2">
-<a href="../assets/pics/karl_2014-03-30.jpg">
+<a href="../assets/pics/xidexia.jpg">
 <img src="../assets/pics/xidexia.jpg"
-title="Karl Broman" alt="Karl Broman"/></a>
+title="Xide Xia" alt="Xide Xia"/></a>
 </div>
 </div>
 </div>

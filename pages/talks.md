@@ -1,33 +1,16 @@
 ---
 layout: page
 title: talks
-description: Karl Broman's talks
+description: talks
 ---
 
-
-
-###  2017
-
-Dissection and fine-mapping of _trans_-eQTL hotspots
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ncsu2016.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ncsu2016_withnotes.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_TransHotspots)<br/>
-[Genetics Program](https://genetics.sciences.ncsu.edu),
-[North Carolina State University](https://ncsu.edu), Raleigh, NC (_Feb 6_)
-
-Creating effective figures and tables
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs2017.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs)
-<br/>
-[Department of Pathology and Laboratory Medicine](http://www.pathology.wisc.edu),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Jan 26_)
 
 
 
 ###  2016
 
-Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_ASA2016.pdf)
+Cost-Sensitive Batch Mode Active learning: Designing Astronomical Observation by Optimizing Telescope Time and Telescope Choice.
+[![pdf](icons16/pdf-icon.png)](http://scholar.harvard.edu/files/xidexia/files/cbal_sdm16.pdf?m=1454015519)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_ASA2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)
 [![video](icons16/video-icon.png)](http://magazine.amstat.org/videos/education_webinars/ReproducibleResearch.mp4)<br/>

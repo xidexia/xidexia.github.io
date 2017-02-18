@@ -13,20 +13,37 @@ title: Xide Xia
 </div>
 </div>
 
-<table class="wide">
-<tr>
-<td class="left">
-<a href="http://staging.proteindna.hms.harvard.edu/Global.aspx?ID=0">
-<img src="assets/publpics/pro_pos.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
-</a>
-</td>
-</tr>
-<tr>
-<td class="left">
-<a href="http://scholar.harvard.edu/files/xidexia/files/cbal.pdf?m=1454015422">
-<img src="assets/publpics/al.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
-</a>
-</td>
-</tr>
-</table>
+Since Fall 2016, I've moved to the Computer Science Department at Boston University. My academic interests broadly include machine learning, computer vision, artificial intelligence, and data science.
 
+Before BU, I was a ME student in [Computational Science and Engineering](http://iacs.seas.harvard.edu/)  at Harvard. My research focus was on developing deep learning methods applied to clinical science under the supervision of Professor Finale Doshi-Velez and Dr. Pavlos Protopapas. 
+
+Since 2013, I've been fortunate to work with Dr. Mohammed AlQuraishi  and Professor Peter Soger at the Sorger Lab and the Laboratory of Systems Pharmacology at Harvard Medical School. Our research work is mainly focused on developing a new computational method for predicting protein-DNA interactions by implementing a whole machine learning pipeline for prediction protein-DNA interactions.  Before coming to Harvard, I received my M.S. degree in Computer Engineering at Brown University. During my undergraduate at Beijing Institute of Technology, I studied in Information and Electrical Engineering.
+
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/xide_xia_cv_bu.pdf)
+
+---
+
+<div class="container">
+<h4><a name="contact"></a>contact</h4>
+
+<div class="row-fluid">
+<div class="span5">
+Xide Xia<br/>
+<div id="hide_email">
+Email: xidexia@bu.edu <br/>
+<a href="http://www.bu.edu/cs/">Department of Computer Science</a><br/>
+<a href="http://www.bu.edu">Boston University</a><br/>
+111 Cummington Mall<br/>
+Boston, MA 02215<br/>
+USA<br/><br/>
+
+</div>
+</div>
+
+<div class="span2">
+<a href="../assets/pics/xidexia.jpg">
+<img src="../assets/pics/xidexia.jpg"
+title="Xide Xia" alt="Xide Xia"/></a>
+</div>
+</div>
+</div>

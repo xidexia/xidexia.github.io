@@ -23,8 +23,8 @@ title: Xide Xia
 </tr>
 <tr>
 <td class="left">
-<a href="pages/publpics/samplemixups_fig7.html">
-<img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+<a href="http://scholar.harvard.edu/files/xidexia/files/cbal.pdf?m=1454015422">
+<img src="assets/publpics/al.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
 </a>
 </td>
 </tr>

@@ -16,7 +16,7 @@ title: Xide Xia
 <table class="wide">
 <tr>
 <td class="left">
-<a href="pages/publpics/iplotCorr.html">
+<a href="http://staging.proteindna.hms.harvard.edu/Global.aspx?ID=0">
 <img src="assets/publpics/pro_pos.jpg" alt="R/qtlcharts example" title="R/qtlcharts example"/>
 </a>
 </td>

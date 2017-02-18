@@ -8,19 +8,19 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Xide Xia
+title : Karl Broman
 author :
-  name : Xide Xia
-  email : xidexia@bu.edu
-  github : xidexia
-  twitter : 
+  name : Karl Broman
+  email : kbroman@gmail.com
+  github : kbroman
+  twitter : kwbroman
   feedburner : nil
 
-production_url : http://xidexia.github.io
+production_url : http://kbroman.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
-markdown: xidexia
+markdown: kramdown
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #

@@ -19,13 +19,11 @@ description: Karl Broman's publications
 </div>
 
 
-### <a name="book"></a>book
+### <a name="Data Mining"></a>dm
+#### 2016
+Xide Xia, Finale Doshi-Velez, Pavlos Protopapas. “Cost-Sensitive Batch Mode Active learning: Designing Astronomical Observation by Optimizing Telescope Time and Telescope Choice.” In In Proceedings of SIAM Data Mining Conference (SDM). 2016. [![pdf](icons16/pdf-icon.png)](http://scholar.harvard.edu/files/xidexia/files/cbal_sdm16.pdf?m=1454015519)
 
-**Broman KW**, Sen &#346; (2009) A Guide to QTL Mapping with R/qtl.  Springer, New York
-[![Online complements](icons16/html-icon.png)](http://www.rqtl.org/book)
-[![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/0387921249?ie=UTF8&tag=7210-20)
-[![Springer](icons16/springer-icon.png)](http://www.springer.com/978-0-387-92124-2)
-[![R/qtl](icons16/R-icon.png)](http://www.rqtl.org)
+
 
 ### <a name="articles"></a>journal articles
 

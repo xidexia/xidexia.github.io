@@ -21,6 +21,7 @@ description: talks
 
 [2]Computational prediction of protein-DNA interactions based on sequences information.
 [![pdf w/notes](icons16/notes-icon.png)](http://scholar.harvard.edu/files/xidexia/files/dna-protein.pdf?m=1454015503)
+[![github](icons16/github-icon.png)](https://github.com/AlQuraishiLab/hth-dna-db)
 
 [Harvard Medical School](https://hms.harvard.edu/),
 [Laboratory of Systems Pharmacology (LSP)](http://hits.harvard.edu/the-program/laboratory-of-systems-pharmacology/about/) ,(_Fec 16_)

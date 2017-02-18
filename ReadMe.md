@@ -1,6 +1,6 @@
 ## Karl Broman&rsquo;s website
 
-See [kbroman.org](http://xidexia.github.io).
+See [xidexia.github.io](http://xidexia.github.io).
 
 ---
 

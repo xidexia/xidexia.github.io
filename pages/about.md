@@ -5,7 +5,7 @@ title: about
 
 Since Fall 2016, I've moved to the Computer Science Department at Boston University. My academic interests broadly include machine learning, computer vision, artificial intelligence, and data science.
 
-Before BU, I was a ME student in Computational Science and Engineering program at Harvard. My research focus was on developing deep learning methods applied to clinical science under the supervision of Professor Finale Doshi-Velez and Dr. Pavlos Protopapas. 
+Before BU, I was a ME student in [Computational Science and Engineering](http://iacs.seas.harvard.edu/)  at Harvard. My research focus was on developing deep learning methods applied to clinical science under the supervision of Professor Finale Doshi-Velez and Dr. Pavlos Protopapas. 
 
 Since 2013, I've been fortunate to work with Dr. Mohammed AlQuraishi  and Professor Peter Soger at the Sorger Lab and the Laboratory of Systems Pharmacology at Harvard Medical School. Our research work is mainly focused on developing a new computational method for predicting protein-DNA interactions by implementing a whole machine learning pipeline for prediction protein-DNA interactions.  Before coming to Harvard, I received my M.S. degree in Computer Engineering at Brown University. During my undergraduate at Beijing Institute of Technology, I studied in Information and Electrical Engineering.
 

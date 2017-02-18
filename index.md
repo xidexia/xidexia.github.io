@@ -8,6 +8,7 @@ title: Xide Xia
 <ul class="nav">
 <li><a href="{{ BASE_PATH }}/assets/xide_xia_cv_bu.pdf">cv</a></li>
 <li><a href="https://github.com/xidexia">github</a></li>
+<li><a href="https://xidexiasite.wordpress.com/">Blogs</a></li>
 <li><a href="http://scholar.harvard.edu/xidexia">previous_webpage</a></li>
 </ul>
 </div>

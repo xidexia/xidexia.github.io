@@ -9,7 +9,7 @@ description: teaching
 ### 2016 FALL
 
 #### Boston University
-#### [CS 131 Fall 2015: Combinatoric Structures](http://www.cs.bu.edu/fac/byers/cs131.html)
+#### [CS131 Combinatoric Structures](http://www.cs.bu.edu/fac/byers/cs131.html)
 
 
 ### 2016 Spring

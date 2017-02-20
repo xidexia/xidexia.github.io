@@ -3,6 +3,7 @@
 See [xidexia.github.io](http://xidexia.github.io).
 
 ---
+This website template is from (https://github.com/kbroman/kbroman.github.io)
 
 My parts of this web site are licensed under
 [CC BY](http://creativecommons.org/licenses/by/3.0/).

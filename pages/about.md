@@ -3,7 +3,6 @@ layout: page
 title: about
 ---
 
-<div align=center><a href='http://www.counter12.com'><img src='http://www.counter12.com/img-w627ab6c7b5DcZb4-3.gif' border='0' alt='conter12'></a><script type='text/javascript' src='http://www.counter12.com/ad.js?id=w627ab6c7b5DcZb4'></script></div>
 
 Since Fall 2016, I've moved to the Computer Science Department at Boston University. My academic interests broadly include machine learning, computer vision, artificial intelligence, and data science.
 

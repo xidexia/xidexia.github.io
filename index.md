@@ -15,12 +15,12 @@ title: Xide Xia
 </div>
 </div>
 
+
 Welcome! You're the <a href='http://www.counter12.com'><img src='http://www.counter12.com/img-w627ab6c7b5DcZb4-3.gif' border='0' alt='conter12'></a><script type='text/javascript' src='http://www.counter12.com/ad.js?id=w627ab6c7b5DcZb4'></script><sup>th</sup> vistor here.
 
 Last Update: Feb. 15<sup>th</sup>, 2017.
 
-
-
+---
 
 Since Fall 2016, I've moved to the Computer Science Department at Boston University. My academic interests broadly include machine learning, computer vision, artificial intelligence, and data science.
 
@@ -30,6 +30,7 @@ Since 2013, I've been fortunate to work with Dr. Mohammed AlQuraishi  and Profes
 
 
 ---
+
 
 <div class="container">
 <h4><a name="contact"></a>contact</h4>

@@ -22,7 +22,7 @@ Last Update: Feb. 15<sup>th</sup>, 2017.
 
 ---
 
-Since Fall 2016, I'm a PhD student in Computer Science working with Professor [Brian Kulis](http://people.bu.edu/bkulis/). My academic interests broadly include machine learning, computer vision, artificial intelligence, and data science.
+Since Fall 2016, I'm a PhD student in Computer Science working with Professor [Brian Kulis](http://people.bu.edu/bkulis/) at Boston University. My academic interests broadly include machine learning, computer vision, artificial intelligence, and data science.
 
 Before BU, I was a ME student in [Computational Science and Engineering](http://iacs.seas.harvard.edu/)  at Harvard. My research focus was on developing deep learning methods applied to clinical science under the supervision of Professor Finale Doshi-Velez and Dr. Pavlos Protopapas. 
 

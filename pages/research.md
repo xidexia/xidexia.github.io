@@ -14,7 +14,8 @@ description: xide's software
 
 ---
 
-
+Boston University
+---
 #### <a name="Segmentation"></a>Convolutional Neural Networks for Unsupervised Image Segmentation
 Design an end-to-end Convolutional Neural Network Architecture for fully-unsupervised image segmentation without any labeling information.
 
@@ -24,6 +25,7 @@ Design an end-to-end Convolutional Neural Network Architecture for fully-unsuper
 Research advised by Professor Brian Kulis.
 
 • Design an end-to-end Convolutional Neural Network Architecture for fully-unsupervised image segmentation without any labeling information.
+
 ---
 
 
@@ -33,6 +35,7 @@ Research advised by Professor Brian Kulis.
 • Learn the underlying lower-dimensional representation for input image data on the hidden layer.
 
 • Train a deep generative model for the purpose of unsupervised clustering task in the hidden space.
+
 ---
 
 
@@ -41,9 +44,11 @@ Research Assistant advised by Professor Margrit Betke, Image and Video Computing
 • Efficient Deep Generative Models for Unsupervised Learning.
 
 • Age/ gender/ ethnicity prediction on the data of Twitter users profile images.
+
 ---
 
-
+Harvard Medical School
+---
 #### <a name="protein"></a>Computational prediction of protein-DNA interactions based on sequences information
 Graduate Research Fellow at Department of Systems Biology
 
@@ -53,6 +58,8 @@ Graduate Research Fellow at Department of Systems Biology
 
 ---
 
+Harvard University
+---
 #### <a name="ICU"></a>Intervention and Outcome Predictions in the ICU
 Research advised by Professor Finale Doshi-Velez.
 

@@ -11,6 +11,7 @@ description: teaching
 #### Boston University
 #### [CS131 Combinatoric Structures](http://www.cs.bu.edu/fac/byers/cs131.html)
 
+---
 
 ### 2016 Spring
 

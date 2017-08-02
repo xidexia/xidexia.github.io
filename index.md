@@ -18,15 +18,13 @@ title: Xide Xia
 
 Welcome! You're the <a href='http://www.counter12.com'><img src='http://www.counter12.com/img-w627ab6c7b5DcZb4-3.gif' border='0' alt='conter12'></a><script type='text/javascript' src='http://www.counter12.com/ad.js?id=w627ab6c7b5DcZb4'></script><sup>th</sup> vistor here.
 
-Last Update: Feb. 15<sup>th</sup>, 2017.
+Last Update: July. 15<sup>th</sup>, 2017.
 
 ---
+Since Fall 2016, I've moved to the Computer Science Department at Boston University. My academic interests broadly include Machine Learning, Image Segmentation, Representation Learning, and Data Mining.
 
-Since Fall 2016, I'm a PhD student in Computer Science working with Professor [Brian Kulis](http://people.bu.edu/bkulis/) at Boston University. My academic interests broadly include machine learning, computer vision, artificial intelligence, and data science.
+Before BU, I was a ME student in [Computational Science and Engineering](http://iacs.seas.harvard.edu/)  at Harvard. During 2013 and 2016, I've been fortunate to work with Dr. Mohammed AlQuraishi  and Professor Peter Soger at the Sorger Lab and the Laboratory of Systems Pharmacology at Harvard Medical School.  Before coming to Harvard, I received my M.S. degree in Computer Engineering at Brown University. During my undergraduate at Beijing Institute of Technology, I studied in Information and Electrical Engineering.
 
-Before BU, I was a ME student in [Computational Science and Engineering](http://iacs.seas.harvard.edu/)  at Harvard. My research focus was on developing deep learning methods applied to clinical science under the supervision of Professor Finale Doshi-Velez and Dr. Pavlos Protopapas. 
-
-Since 2013, I've been fortunate to work with Dr. Mohammed AlQuraishi  and Professor Peter Soger at the Sorger Lab and the Laboratory of Systems Pharmacology at Harvard Medical School. Our research work is mainly focused on developing a new computational method for predicting protein-DNA interactions by implementing a whole machine learning pipeline for prediction protein-DNA interactions.  Before coming to Harvard, I received my M.S. degree in Computer Engineering at Brown University. During my undergraduate at Beijing Institute of Technology, I studied in Information and Electrical Engineering.
 
 This website is still under construction. For more information, welcome to my [old webpage](https://scholar.harvard.edu/xidexia).
 

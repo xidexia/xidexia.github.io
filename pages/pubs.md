@@ -13,5 +13,5 @@ description: Xide Xia's publications
 
 
 ### <a name="Bioinformatics"></a>Bioinformatics
-#### 2016
+#### 2015
 [1]AlQuraishi, Mohammed, Shengdong Tang, and Xide Xia. "An affinity-structure database of helix-turn-helix: DNA complexes with a universal coordinate system." BMC bioinformatics 16.1 (2015): 1. [![pdf](icons16/pdf-icon.png)](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0819-2)[![github](icons16/github-icon.png)](https://github.com/xidexia/Active-learning) [Data](http://staging.proteindna.hms.harvard.edu/)

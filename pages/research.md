@@ -1,7 +1,7 @@
 ---
 layout: page
-title: software
-description: xide's software
+title: Research
+description: xide's research
 ---
 
 <div class="navbar">

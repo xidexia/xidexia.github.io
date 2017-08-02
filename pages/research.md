@@ -17,19 +17,13 @@ description: xide's software
 Boston University
 ---
 #### <a name="Segmentation"></a>Convolutional Neural Networks for Unsupervised Image Segmentation
-Design an end-to-end Convolutional Neural Network Architecture for fully-unsupervised image segmentation without any labeling information.
-
----
-
-#### <a name="Segmentation"></a>Efficient Deep Generative Models for Unsupervised Representation Learning
 Research advised by Professor Brian Kulis.
 
 • Design an end-to-end Convolutional Neural Network Architecture for fully-unsupervised image segmentation without any labeling information.
 
 ---
 
-
-#### <a name="clustering"></a>Convolutional Neural Networks for Unsupervised Image Segmentation
+#### <a name="Segmentation"></a>Efficient Deep Generative Models for Unsupervised Representation Learning
 Research advised by Professor Brian Kulis.
 
 • Learn the underlying lower-dimensional representation for input image data on the hidden layer.
@@ -41,6 +35,7 @@ Research advised by Professor Brian Kulis.
 
 #### <a name="Twitter"></a>Age and Gender Prediction on Twitter Users
 Research Assistant advised by Professor Margrit Betke, Image and Video Computing (IVC) Lab.
+
 • Efficient Deep Generative Models for Unsupervised Learning.
 
 • Age/ gender/ ethnicity prediction on the data of Twitter users profile images.

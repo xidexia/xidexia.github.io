@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Xide Xia
+title: Xide Xia - Computer Science @ Boston University
 <li><a href="https://xidexiasite.wordpress.com/">Blogs</a></li>
 ---
 

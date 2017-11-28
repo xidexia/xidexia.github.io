@@ -31,7 +31,7 @@ Our recent paper "Cost-Sensitive Batch Mode Active learning: Designing Astronomi
 
 This website is still under construction. For more information, welcome to my [old webpage](https://scholar.harvard.edu/xidexia).
 
-
+[here](https://arxiv.org/abs/1711.08506).
 ---
 
 <div class="news">

@@ -31,18 +31,18 @@ Our recent paper "Cost-Sensitive Batch Mode Active learning: Designing Astronomi
 
 This website is still under construction. For more information, welcome to my [old webpage](https://scholar.harvard.edu/xidexia).
 
-[here](https://arxiv.org/abs/1711.08506).
+
 ---
 
 <div class="news">
 <h4><a name="contact"></a>What's New</h4>
 
 <BLOCKQUOTE>
-<LI>Our new paper: "W-Net: A Deep Model for Fully Unsupervised Image Segmentation" posted [here](https://arxiv.org/abs/1711.08506). </LI>
+<LI>Our new paper: "W-Net: A Deep Model for Fully Unsupervised Image Segmentation" posted <a href="https://arxiv.org/abs/1711.08506">here</a>. </LI>
 <LI>I am very honored and thankful to have received the Dean’s Fellow Scholarship 2017!</LI>
 <LI>2016 Fall: I am the Teaching Assistant for course CS131 Combinatoric Structures.</LI>
 <LI>I am very honored and thankful to have received the Harvard IACS Student Scholarship 2016!</LI>
-<LI>Our new paper "Cost-Sensitive Batch Mode Active learning: Designing Astronomical Observation by Optimizing Telescope Time and Telescope Choice." has just been accepted by In Proceedings of SIAM Data Mining Conference (SDM) 2016. [pdf](http://scholar.harvard.edu/files/xidexia/files/cbal_sdm16.pdf?m=1454015519) </LI>
+<LI>Our new paper "Cost-Sensitive Batch Mode Active learning: Designing Astronomical Observation by Optimizing Telescope Time and Telescope Choice." has just been accepted by In Proceedings of SIAM Data Mining Conference (SDM) 2016. <a href="http://scholar.harvard.edu/files/xidexia/files/cbal_sdm16.pdf?m=1454015519">pdf</a>.</LI>
 </BLOCKQUOTE>
 </div>
 

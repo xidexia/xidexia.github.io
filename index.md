@@ -21,12 +21,32 @@ Welcome! You're the <a href='http://www.counter12.com'><img src='http://www.coun
 Last Update: July. 15<sup>th</sup>, 2017.
 
 ---
-I am a Ph.D. student in the [Computer Science Department](http://www.bu.edu/cs/) at Boston University. I am advised by Professor [Brian Kulis](http://people.bu.edu/bkulis/). My academic interests broadly include Machine Learning, Image Segmentation, Representation Learning, and Data Mining.
+I am a Ph.D. student in the [Computer Science Department](http://www.bu.edu/cs/) at Boston University. I am advised by Professor [Brian Kulis](http://people.bu.edu/bkulis/). My academic interests broadly include Deep Learning, Image Segmentation, Video Representation Learning, and Data Mining.
 
 Before BU, I was a ME student in [Computational Science and Engineering](http://iacs.seas.harvard.edu/)  at Harvard. During 2013 and 2016, I've been fortunate to work with Dr. Mohammed AlQuraishi  and Professor Peter Soger at the Sorger Lab and the Laboratory of Systems Pharmacology at Harvard Medical School.  Before coming to Harvard, I received my M.S. degree in Computer Engineering at Brown University. During my undergraduate at Beijing Institute of Technology, I studied in Information and Electrical Engineering.
 
 
+Our recent paper "Cost-Sensitive Batch Mode Active learning: Designing Astronomical Observation by Optimizing Telescope Time and Telescope Choice." has just been accepted by In Proceedings of SIAM Data Mining Conference (SDM) 2016.
+
+
 This website is still under construction. For more information, welcome to my [old webpage](https://scholar.harvard.edu/xidexia).
+
+
+---
+
+<div class="news">
+<h4><a name="contact"></a>What's New</h4>
+
+<BLOCKQUOTE>
+<LI>Our new paper: "W-Net: A Deep Model for Fully Unsupervised Image Segmentation" posted [here](https://arxiv.org/abs/1711.08506). </LI>
+<LI>I am very honored and thankful to have received the Dean’s Fellow Scholarship 2017!</LI>
+<LI>2016 Fall: I am the Teaching Assistant for course CS131 Combinatoric Structures.</LI>
+<LI>I am very honored and thankful to have received the Harvard IACS Student Scholarship 2016!</LI>
+<LI>Our new paper "Cost-Sensitive Batch Mode Active learning: Designing Astronomical Observation by Optimizing Telescope Time and Telescope Choice." has just been accepted by In Proceedings of SIAM Data Mining Conference (SDM) 2016. [pdf](http://scholar.harvard.edu/files/xidexia/files/cbal_sdm16.pdf?m=1454015519) </LI>
+</BLOCKQUOTE>
+
+</div>
+</div>
 
 ---
 

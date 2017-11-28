@@ -14,6 +14,15 @@ description: xide's research
 
 ---
 
+Legendary Analytics
+---
+#### <a name="Video"></a>Video Representation Learning
+Research advised by Dr Jonathan Foster.
+
+• Develop and implement a Convolutional Network for spatial-temporal representation learning.
+
+---
+
 Boston University
 ---
 #### <a name="Segmentation"></a>Convolutional Neural Networks for Unsupervised Image Segmentation
@@ -21,9 +30,17 @@ Research advised by Professor Brian Kulis.
 
 • Design an end-to-end Convolutional Neural Network Architecture for fully-unsupervised image segmentation without any labeling information.
 
+
+---
+#### <a name="Metric"></a>Metric Learning
+Research advised by Professor Brian Kulis.
+
+• Hashing and metric learning for image retrieval.
+
+
 ---
 
-#### <a name="Segmentation"></a>Efficient Deep Generative Models for Unsupervised Representation Learning
+#### <a name="clustering"></a>Efficient Deep Generative Models for Unsupervised Representation Learning
 Research advised by Professor Brian Kulis.
 
 • Learn the underlying lower-dimensional representation for input image data on the hidden layer.

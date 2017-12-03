@@ -65,7 +65,7 @@ USA<br/><br/>
 <div class="span2">
 <a href="../assets/pics/xidexia.jpg">
 <img src="../assets/pics/xidexia.jpg"
-title="Xide Xia" alt="Xide Xia" height="72" width="72" /></a>
+title="Xide Xia" alt="Xide Xia" height="1000" width="1000" /></a>
 </div>
 </div>
 </div>

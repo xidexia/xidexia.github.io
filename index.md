@@ -23,7 +23,7 @@ Last Update: November. 15<sup>th</sup>, 2017.
 ---
 I am a Ph.D. student in the [Computer Science Department](http://www.bu.edu/cs/) at Boston University. I am advised by Professor [Brian Kulis](http://people.bu.edu/bkulis/). My academic interests broadly include deep learning, image segmentation, video representation learning, and metric learning for image retrieval.
 
-Since this September, I’ve been working as Graduate Quantitative Research Intern at Legendary Applied Analytics under the supervision of Dr. Jonathan Foster. Our research work at Legendary focuses on viewer counts and like/dislike ratio prediction for trailer movies.
+Since this September, I’ve been working as Graduate Quantitative Research Intern at Legendary Applied Analytics under the supervision of Dr. Jonathan Foster. Our research work at Legendary focuses on video representation learning for trailer movies.
 
 
 Before BU, I was a ME student in [Computational Science and Engineering](http://iacs.seas.harvard.edu/)  at Harvard. During 2013 and 2016, I've been fortunate to work with Dr. Mohammed AlQuraishi  and Professor Peter Soger at the Sorger Lab and the Laboratory of Systems Pharmacology at Harvard Medical School.  Before coming to Harvard, I received my M.S. degree in Computer Engineering at Brown University. During my undergraduate at Beijing Institute of Technology, I studied in Information and Electrical Engineering.

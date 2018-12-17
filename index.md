@@ -32,11 +32,15 @@ For more information, welcome to my [previous webpage](https://scholar.harvard.e
 ---
 <h4><a name="news"></a>What's New</h4>
 
-<LI>November 2018, two papers submitted to CVPR 2019.
+<LI>In the upcoming Summer 2019, I will work as a Research Intern at Google Research.
+<LI>In November 2018, two papers submitted to CVPR 2019.
 <LI>Our new paper: "Moment Matching for Multi-Source Domain Adaptation" posted <a href="https://arxiv.org/abs/1812.01754">here</a>. </LI>
+<LI>In Fall 2018: I am the Teaching Assistant for course EC500/CS591-K1 Deep Learning. My office hours are on Mon and Wed during 4:30-6:30 pm at the CS Lab. </LI>
+<LI>In Summer 2018, I wok as a SWE-PhD intern at Google.
+<LI>From Fall 2017 to Spring 2018, I wok as a research intern at Legendary Applied Analytics.
 <LI>Our new paper: "W-Net: A Deep Model for Fully Unsupervised Image Segmentation" posted <a href="https://arxiv.org/abs/1711.08506">here</a>. </LI>
 <LI>I am very honored and thankful to have received the Dean’s Fellow Scholarship 2017!</LI>
-<LI>2016 Fall: I am the Teaching Assistant for course CS131 Combinatoric Structures.</LI>
+<LI>In Fall 2016: I am the Teaching Assistant for course CS131 Combinatoric Structures.</LI>
 <LI>I am very honored and thankful to have received the Harvard IACS Student Scholarship 2016!</LI>
 <LI>Our new paper "Cost-Sensitive Batch Mode Active learning: Designing Astronomical Observation by Optimizing Telescope Time and Telescope Choice." has just been accepted by In Proceedings of SIAM Data Mining Conference (SDM) 2016. <a href="http://scholar.harvard.edu/files/xidexia/files/cbal_sdm16.pdf?m=1454015519">pdf</a>.</LI>
 

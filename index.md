@@ -55,7 +55,7 @@ For more information, welcome to my <a href="https://scholar.harvard.edu/xidexia
 <LI>I am very honored and thankful to have received the Harvard IACS Student Scholarship 2016!</LI>
 <LI>Our new paper "Cost-Sensitive Batch Mode Active learning: Designing Astronomical Observation by Optimizing Telescope Time and Telescope Choice." has just been accepted by In Proceedings of SIAM Data Mining Conference (SDM) 2016. <a href="http://scholar.harvard.edu/files/xidexia/files/cbal_sdm16.pdf?m=1454015519">pdf</a>.</LI>
 
----
+<hr>
 <div class="container">
 <h4><a name="contact"></a>Contact</h4>
 

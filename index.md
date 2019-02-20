@@ -23,37 +23,21 @@ Last Update: December, 15<sup>th</sup>, 2018.
 
 ---
 <div class="container">
-<h4><a name="contact"></a>Contact</h4>
 
-<div class="row-fluid">
-<div class="span5">
-Xide Xia<br/>
-<div id="hide_email">
-Email: xidexia@bu.edu <br/>
-<a href="http://www.bu.edu/cs/">Department of Computer Science</a><br/>
-<a href="http://www.bu.edu">Boston University</a><br/>
-111 Cummington Mall<br/>
-Boston, MA 02215<br/>
-USA<br/><br/>
+<table>
+<tr>
+<td>I am a Ph.D. student in the <a href="http://www.bu.edu/cs/">Computer Science Department</a> at Boston University. I am advised by Professor <a href="http://people.bu.edu/bkulis/">Brian Kulis</a>. I work as a research assistant in <a href="https://www.bu.edu/cs/ivc/">the Image and Video Computing (IVC)</a> lab. My academic interests broadly include deep learning, image segmentation, video representation learning, and metric learning for image retrieval.
+<br/>
+<br/>
+Before BU, I was a ME student in <a href="http://iacs.seas.harvard.edu/">Computational Science and Engineering</a> at Harvard. During 2013 and 2016, I've been fortunate to work with Dr. Mohammed AlQuraishi and Professor Peter Soger at the Sorger Lab and the Laboratory of Systems Pharmacology at Harvard Medical School.  Before coming to Harvard, I received my M.S. degree in Computer Engineering at Brown University. During my undergraduate at Beijing Institute of Technology, I studied in Information and Electrical Engineering.
+<br/>
+<br/>
+For more information, welcome to my <a href="https://scholar.harvard.edu/xidexia">previous webpage</a>.</td>
+<td><img src="../assets/pics/xidexia.jpg" title="Xide Xia" alt="Xide Xia" width="250"/> </td>
+</tr>
+</table>
 
 </div>
-</div>
-
-<div class="span2">
-<a href="../assets/pics/xidexia.jpg">
-<img src="../assets/pics/xidexia.jpg"
-title="Xide Xia" alt="Xide Xia" width="2500" /></a>
-</div>
-</div>
-</div>
-
----
-I am a Ph.D. student in the [Computer Science Department](http://www.bu.edu/cs/) at Boston University. I am advised by Professor [Brian Kulis](http://people.bu.edu/bkulis/). I work as a research assistant  in [the Image and Video Computing (IVC)](https://www.bu.edu/cs/ivc/) lab.  My academic interests broadly include deep learning, image segmentation, video representation learning, and metric learning for image retrieval.
-
-Before BU, I was a ME student in [Computational Science and Engineering](http://iacs.seas.harvard.edu/)  at Harvard. During 2013 and 2016, I've been fortunate to work with Dr. Mohammed AlQuraishi  and Professor Peter Soger at the Sorger Lab and the Laboratory of Systems Pharmacology at Harvard Medical School.  Before coming to Harvard, I received my M.S. degree in Computer Engineering at Brown University. During my undergraduate at Beijing Institute of Technology, I studied in Information and Electrical Engineering.
-
-For more information, welcome to my [previous webpage](https://scholar.harvard.edu/xidexia).
-
 
 ---
 <h4><a name="news"></a>What's New</h4>
@@ -69,3 +53,24 @@ For more information, welcome to my [previous webpage](https://scholar.harvard.e
 <LI>In Fall 2016, I am the Teaching Assistant for course CS131 Combinatoric Structures.</LI>
 <LI>I am very honored and thankful to have received the Harvard IACS Student Scholarship 2016!</LI>
 <LI>Our new paper "Cost-Sensitive Batch Mode Active learning: Designing Astronomical Observation by Optimizing Telescope Time and Telescope Choice." has just been accepted by In Proceedings of SIAM Data Mining Conference (SDM) 2016. <a href="http://scholar.harvard.edu/files/xidexia/files/cbal_sdm16.pdf?m=1454015519">pdf</a>.</LI>
+
+---
+<div class="container">
+<h4><a name="contact"></a>Contact</h4>
+
+<div class="row-fluid">
+<div class="span5">
+Xide Xia<br/>
+<div id="hide_email">
+Email: xidexia@bu.edu <br/>
+<a href="http://www.bu.edu/cs/">Department of Computer Science</a><br/>
+<a href="http://www.bu.edu">Boston University</a><br/>
+111 Cummington Mall<br/>
+Boston, MA 02215<br/>
+USA<br/><br/>
+
+</div>
+</div>
+</div>
+</div>
+

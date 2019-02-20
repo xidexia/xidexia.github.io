@@ -23,7 +23,7 @@ Last Update: December, 15<sup>th</sup>, 2018.
 
 ---
 <div class="container">
-
+<div class="span5">
 <table>
 <tr>
 <td>I am a Ph.D. student in the <a href="http://www.bu.edu/cs/">Computer Science Department</a> at Boston University. I am advised by Professor <a href="http://people.bu.edu/bkulis/">Brian Kulis</a>. I work as a research assistant in <a href="https://www.bu.edu/cs/ivc/">the Image and Video Computing (IVC)</a> lab. My academic interests broadly include deep learning, image segmentation, video representation learning, and metric learning for image retrieval.
@@ -33,10 +33,11 @@ Before BU, I was a ME student in <a href="http://iacs.seas.harvard.edu/">Computa
 <br/>
 <br/>
 For more information, welcome to my <a href="https://scholar.harvard.edu/xidexia">previous webpage</a>.</td>
-<td><img src="../assets/pics/xidexia.jpg" title="Xide Xia" alt="Xide Xia" width="1000"/> </td>
+<td><img src="../assets/pics/xidexia.jpg" title="Xide Xia" alt="Xide Xia" height=300px/> </td>
 </tr>
 </table>
 
+</div>
 </div>
 
 ---

@@ -33,7 +33,7 @@ Before BU, I was a ME student in <a href="http://iacs.seas.harvard.edu/">Computa
 <br/>
 <br/>
 For more information, welcome to my <a href="https://scholar.harvard.edu/xidexia">previous webpage</a>.</td>
-<td><img src="../assets/pics/xidexia.jpg" title="Xide Xia" alt="Xide Xia" width="1250"/> </td>
+<td><img src="../assets/pics/xidexia.jpg" title="Xide Xia" alt="Xide Xia" width="1000"/> </td>
 </tr>
 </table>
 

@@ -23,7 +23,7 @@ Last Update: December, 15<sup>th</sup>, 2018.
 
 ---
 <div class="container">
-<div class="span9">
+<div class="span8">
 <table>
 <tr>
 <td>I am a Ph.D. student in the <a href="http://www.bu.edu/cs/">Computer Science Department</a> at Boston University. I am advised by Professor <a href="http://people.bu.edu/bkulis/">Brian Kulis</a>. I work as a research assistant in <a href="https://www.bu.edu/cs/ivc/">the Image and Video Computing (IVC)</a> lab. My academic interests broadly include deep learning, image segmentation, video representation learning, and metric learning for image retrieval.

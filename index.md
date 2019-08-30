@@ -26,7 +26,7 @@ Last Update: December, 15<sup>th</sup>, 2018.
 <div class="span8">
 <table>
 <tr>
-<td> Hello! My name is Xide Xia ( pronounced as 'Hseede Hsiah'). It is named after Xide Xie, who is a famous Chinese physist as well as the first woman president of a major comprehensive university in China. 
+<td> Hello! My name is Xide Xia ( pronounced as 'Hseede Hsiah'). It is named after Xide Xie, who is a famous Chinese physicist as well as the first woman president of a major comprehensive university in China. 
 <br/>
 <br/>
 I am a Ph.D. student in the <a href="http://www.bu.edu/cs/">Computer Science Department</a> at Boston University. I am advised by Professor <a href="http://people.bu.edu/bkulis/">Brian Kulis</a>. I work as a research assistant in <a href="https://www.bu.edu/cs/ivc/">the Image and Video Computing (IVC)</a> lab. My academic interests broadly include image/video style transfer learning, attribute-based models, segmentation, and metric learning for retrieval.

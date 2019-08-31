@@ -46,7 +46,7 @@ For more information, welcome to my <a href="https://scholar.harvard.edu/xidexia
 ---
 <h4><a name="news"></a>What's New</h4>
 
-<LI>Starting from Fall 2019, I am a visiting PhD student at UC Berkeley supervised by Professor Trevor Darrell. At same time, I am a student researcher at Google AI Research.</LI>
+<LI>Starting from Fall 2019, I am a visiting PhD student at UC Berkeley supervised by Professor Trevor Darrell. Meanwhile, I am a student researcher at Google AI Research.</LI>
 <LI>Our new paper: "Moment Matching for Multi-Source Domain Adaptation" is accepted by ICCV 2019! It is posted <a href="https://arxiv.org/abs/1812.01754">here</a>. </LI>
 <LI>In Summer 2019, I worked as a Research Intern at Google AI Research.</LI>
 <LI>Our new paper: "Deep Metric Learning to Rank" is accepted by CVPR 2019! It is posted <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Cakir_Deep_Metric_Learning_to_Rank_CVPR_2019_paper.pdf">here</a>. </LI>

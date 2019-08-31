@@ -19,7 +19,7 @@ title: Xide Xia - CS @ Boston University
 
 Welcome! You're the <a href='http://www.counter12.com'><img src='http://www.counter12.com/img-w627ab6c7b5DcZb4-3.gif' border='0' alt='conter12'></a><script type='text/javascript' src='http://www.counter12.com/ad.js?id=w627ab6c7b5DcZb4'></script><sup>th</sup> vistor here.
 
-Last Update: December, 15<sup>th</sup>, 2018.
+Last Update: August, 30<sup>th</sup>, 2019.
 
 ---
 <div class="container">

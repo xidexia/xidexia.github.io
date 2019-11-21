@@ -4,9 +4,12 @@ title: about
 ---
 
 
-I am a Ph.D. student in the [Computer Science Department](http://www.bu.edu/cs/) at Boston University. I am advised by Professor [Brian Kulis](http://people.bu.edu/bkulis/). My academic interests broadly include Computer Vision, Machine Learning, Image/Video Segmentation and Representation Learning, etc.
+Hello! My name is Xide Xia ( pronounced as 'Hseede Hsiah'). I was named after Xide Xie, who is a famous Chinese physicist as well as the first woman president of a major comprehensive university in China. 
 
-Before BU, I was a ME student in [Computational Science and Engineering](http://iacs.seas.harvard.edu/)  at Harvard. During 2013 and 2016, I've been fortunate to work with Dr. Mohammed AlQuraishi  and Professor Peter Soger at the Sorger Lab and the Laboratory of Systems Pharmacology at Harvard Medical School.  Before coming to Harvard, I received my M.S. degree in Computer Engineering at Brown University. During my undergraduate at Beijing Institute of Technology, I studied in Information and Electrical Engineering.
+I am a Ph.D. student in the <a href="http://www.bu.edu/cs/">Computer Science Department</a> at Boston University. I am advised by Professor <a href="http://people.bu.edu/bkulis/">Brian Kulis</a>. I work as a research assistant in <a href="https://www.bu.edu/cs/ivc/">the Image and Video Computing (IVC)</a> lab. My academic interests broadly include image/video style transfer learning, attribute-based models, segmentation, and metric learning for retrieval.
+
+Before BU, I was a ME student in <a href="http://iacs.seas.harvard.edu/">Computational Science and Engineering</a> at Harvard. During 2013 and 2016, I've been fortunate to work with Dr. Mohammed AlQuraishi and Professor Peter Soger at the Sorger Lab and the Laboratory of Systems Pharmacology at Harvard Medical School.  Before coming to Harvard, I received my M.S. degree in Electrical Engineering at Brown University. During my undergraduate at Beijing Institute of Technology, I studied in Information and Electrical Engineering.
+
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/xide_xia_cv_bu.pdf)
 

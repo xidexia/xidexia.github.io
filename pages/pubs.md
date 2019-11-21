@@ -15,11 +15,11 @@ Under reviewing.
 
 [P.5] Xingchao Peng, Qinxun Bai, Xide Xia, Zijun Huang, Kate Saenko, Bo Wang. “Moment Matching for Multi-Source
 Domain Adaptation.” In Proc. IEEE International Conference on Computer Vision (ICCV) 2019, Oral.[![pdf](icons16/pdf-icon.png)](http://openaccess.thecvf.com/content_ICCV_2019/papers/Peng_Moment_Matching_for_Multi-Source_Domain_Adaptation_ICCV_2019_paper.pdf) 
-<td><img src="../pages/pub_pics/iccv_2019.png" title="iccv_2019" alt="iccv_2019" height="300"/> </td>
+<td><img src="../pages/pub_pics/iccv_2019.png" title="iccv_2019" alt="iccv_2019" height="270"/> </td>
 
 [P.4] Kun He, Fatih Cakir, Xide Xia, Brian Kulis, Stan Sclaroff. “Deep Metric Learning to Rank.” In Proc. IEEE
 Conference on Computer Vision and Pattern Recognition (CVPR) 2019. [![pdf](icons16/pdf-icon.png)](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cakir_Deep_Metric_Learning_to_Rank_CVPR_2019_paper.pdf) 
-<td><img src="../pages/pub_pics/cvpr_2019.png" title="cvpr_2019" alt="cvpr_2019" height="190"/> </td>
+<td><img src="../pages/pub_pics/cvpr_2019.png" title="cvpr_2019" alt="cvpr_2019" height="180"/> </td>
 
 #### 2017
 [P.3] Xide Xia, Brian Kulis. “W-Net: A Deep Model for Fully Unsupervised Image Segmentation.” ArXiv tech report 1711.08506, November 2017. [![pdf](icons16/pdf-icon.png)](https://arxiv.org/abs/1711.08506) 

@@ -107,8 +107,6 @@ Conference on Computer Vision and Pattern Recognition (CVPR) 2019. [![pdf](icons
 
 
 ---
-
-<hr>
 <div class="container">
 <h4><a name="contact"></a>Contact</h4>
 

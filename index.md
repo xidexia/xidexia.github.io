@@ -64,19 +64,19 @@ For more information, welcome to my <a href="https://scholar.harvard.edu/xidexia
 <h4><a name="publication"></a>Publications</h4>
 
 
-#### 2019
-[P.7] <b>Xide Xia</b>, Meng Zhang, Tianfan Xue, Zheng Sun, Hui Fang, Brian Kulis, Jiawen Chen. “Joint Bilateral Learning for
-Fast Universal Photorealistic Style Transfer.” Under reviewing. 
+#### 2020
+[P.7] <b>Xide Xia</b>, Tianfan Xue, Wei-sheng Lai, Zheng Sun, Abby Chang, Brian Kulis, Jiawen Chen. “Real-time Localized Photorealistic Video Style Transfer.” Under reviewing. [![pdf](http://cs-people.bu.edu/xidexia/VST.pdf) 
+<td><img src="../pages/pub_pics/vst_teaser.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+---
+<td>  </td>
+
+[P.6] <b>Xide Xia</b>, Meng Zhang, Tianfan Xue, Zheng Sun, Hui Fang, Brian Kulis, Jiawen Chen. “Joint Bilateral Learning for
+Fast Universal Photorealistic Style Transfer.” Under reviewing. [![pdf](https://arxiv.org/pdf/2004.10955.pdf) 
 <td><img src="../pages/pub_pics/cvpr_2020.png" title="cvpr_2020" alt="cvpr_2020" height="200"/> </td>
 ---
 <td>  </td>
 
-[P.6] <b>Xide Xia</b>, Kun He, Fatih Cakir, Brian Kulis. “Fashion Retrieval with Fine-Grained Attribute Representation Learning.”
-Under reviewing.
-<td><img src="../pages/pub_pics/fashion.png" title="fashion.png" alt="fashion" height="200"/> </td>
----
-<td>  </td>
-
+#### 2019
 [P.5] Xingchao Peng, Qinxun Bai, <b>Xide Xia</b>, Zijun Huang, Kate Saenko, Bo Wang. “Moment Matching for Multi-Source
 Domain Adaptation.” In Proc. IEEE International Conference on Computer Vision (ICCV) 2019, Oral.[![pdf](../icons16/pdf-icon.png)](http://openaccess.thecvf.com/content_ICCV_2019/papers/Peng_Moment_Matching_for_Multi-Source_Domain_Adaptation_ICCV_2019_paper.pdf) 
 <td><img src="../pages/pub_pics/iccv_2019.png" title="iccv_2019" alt="iccv_2019" height="270"/> </td>

@@ -65,13 +65,13 @@ For more information, welcome to my <a href="https://scholar.harvard.edu/xidexia
 
 
 #### 2020
-[P.7] <b>Xide Xia</b>, Tianfan Xue, Wei-sheng Lai, Zheng Sun, Abby Chang, Brian Kulis, Jiawen Chen. “Real-time Localized Photorealistic Video Style Transfer.” Under reviewing. [![pdf](http://cs-people.bu.edu/xidexia/VST.pdf) 
+[P.7] <b>Xide Xia</b>, Tianfan Xue, Wei-sheng Lai, Zheng Sun, Abby Chang, Brian Kulis, Jiawen Chen. “Real-time Localized Photorealistic Video Style Transfer.” Under reviewing. [![pdf](../icons16/pdf-icon.png)](http://cs-people.bu.edu/xidexia/VST.pdf)
 <td><img src="../pages/pub_pics/vst_teaser.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
 
 [P.6] <b>Xide Xia</b>, Meng Zhang, Tianfan Xue, Zheng Sun, Hui Fang, Brian Kulis, Jiawen Chen. “Joint Bilateral Learning for
-Fast Universal Photorealistic Style Transfer.” Under reviewing. [![pdf](https://arxiv.org/pdf/2004.10955.pdf) 
+Fast Universal Photorealistic Style Transfer.” Under reviewing. [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/pdf/2004.10955.pdf)
 <td><img src="../pages/pub_pics/cvpr_2020.png" title="cvpr_2020" alt="cvpr_2020" height="200"/> </td>
 ---
 <td>  </td>

@@ -10,7 +10,7 @@ title: Xide Xia - CS @ Boston University
 <li><a href="{{ BASE_PATH }}/assets/xide_xia_cv_bu.pdf">CV</a></li>
 <li><a href="https://www.linkedin.com/in/xide-xia-21227853/">LinkedIn</a></li>
 <li><a href="https://github.com/xidexia">Github</a></li>
-<li><a href="https://scholar.google.com/citations?user=FHLTntIAAAAJ&hl=zh-CN">Google Scholar</a></li>
+<li><a href="https://scholar.google.com/citations?user=FHLTntIAAAAJ">Google Scholar</a></li>
 <li><a href="http://scholar.harvard.edu/xidexia">Old Website</a></li>
 </ul>
 </div>

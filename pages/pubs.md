@@ -4,27 +4,27 @@ title: publications
 description: Xide Xia's publications
 ---
 
-#### 2019
-[P.7] <b>Xide Xia</b>, Meng Zhang, Tianfan Xue, Zheng Sun, Hui Fang, Brian Kulis, Jiawen Chen. “Joint Bilateral Learning for
-Fast Universal Photorealistic Style Transfer.” Under reviewing. 
+#### 2020
+[P.7] <b>Xide Xia</b>, Tianfan Xue, Wei-sheng Lai, Zheng Sun, Abby Chang, Brian Kulis, Jiawen Chen. “Real-time Localized Photorealistic Video Style Transfer.” Under reviewing. [![pdf](../icons16/pdf-icon.png)](http://cs-people.bu.edu/xidexia/VST.pdf)
+<td><img src="../pages/pub_pics/vst_teaser.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+---
+<td>  </td>
+
+[P.6] <b>Xide Xia</b>, Meng Zhang, Tianfan Xue, Zheng Sun, Hui Fang, Brian Kulis, Jiawen Chen. “Joint Bilateral Learning for
+Fast Universal Photorealistic Style Transfer.” Under reviewing. [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/pdf/2004.10955.pdf)
 <td><img src="../pages/pub_pics/cvpr_2020.png" title="cvpr_2020" alt="cvpr_2020" height="200"/> </td>
 ---
 <td>  </td>
 
-[P.6] <b>Xide Xia</b>, Kun He, Fatih Cakir, Brian Kulis. “Fashion Retrieval with Fine-Grained Attribute Representation Learning.”
-Under reviewing.
-<td><img src="../pages/pub_pics/fashion.png" title="fashion.png" alt="fashion" height="200"/> </td>
----
-<td>  </td>
-
+#### 2019
 [P.5] Xingchao Peng, Qinxun Bai, <b>Xide Xia</b>, Zijun Huang, Kate Saenko, Bo Wang. “Moment Matching for Multi-Source
-Domain Adaptation.” In Proc. IEEE International Conference on Computer Vision (ICCV) 2019, Oral.[![pdf](icons16/pdf-icon.png)](http://openaccess.thecvf.com/content_ICCV_2019/papers/Peng_Moment_Matching_for_Multi-Source_Domain_Adaptation_ICCV_2019_paper.pdf) 
+Domain Adaptation.” In Proc. IEEE International Conference on Computer Vision (ICCV) 2019, Oral.[![pdf](../icons16/pdf-icon.png)](http://openaccess.thecvf.com/content_ICCV_2019/papers/Peng_Moment_Matching_for_Multi-Source_Domain_Adaptation_ICCV_2019_paper.pdf) 
 <td><img src="../pages/pub_pics/iccv_2019.png" title="iccv_2019" alt="iccv_2019" height="270"/> </td>
 ---
 <td>  </td>
 
 [P.4] Kun He, Fatih Cakir, <b>Xide Xia</b>, Brian Kulis, Stan Sclaroff. “Deep Metric Learning to Rank.” In Proc. IEEE
-Conference on Computer Vision and Pattern Recognition (CVPR) 2019. [![pdf](icons16/pdf-icon.png)](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cakir_Deep_Metric_Learning_to_Rank_CVPR_2019_paper.pdf) 
+Conference on Computer Vision and Pattern Recognition (CVPR) 2019. [![pdf](../icons16/pdf-icon.png)](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cakir_Deep_Metric_Learning_to_Rank_CVPR_2019_paper.pdf) 
 <td><img src="../pages/pub_pics/cvpr_2019.png" title="cvpr_2019" alt="cvpr_2019" height="180"/> </td>
 ---
 <td>  </td>

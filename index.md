@@ -46,7 +46,7 @@ For more information, welcome to my <a href="https://scholar.harvard.edu/xidexia
 ---
 <h4><a name="news"></a>What's New</h4>
 
-<LI>Our work on Image Photorealistic Style Transfer “Joint Bilateral Learning for Fast Universal Photorealistic Style Transfer.” is accepted by ECCV 2020! [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/pdf/2004.10955.pdf)</LI>
+<LI>Our work on Image Photorealistic Style Transfer “Joint Bilateral Learning for Fast Universal Photorealistic Style Transfer.” is accepted by ECCV 2020! </LI>
 <LI>During Fall 2019 and Spring 2020, I am a student researcher at Google AI Research.</LI>
 <LI>Our new paper: "Moment Matching for Multi-Source Domain Adaptation" is accepted by ICCV 2019! It is posted <a href="https://arxiv.org/abs/1812.01754">here</a>. </LI>
 <LI>In Summer 2019, I worked as a Research Intern at Google AI Research.</LI>

@@ -46,7 +46,8 @@ For more information, welcome to my <a href="https://scholar.harvard.edu/xidexia
 ---
 <h4><a name="news"></a>What's New</h4>
 
-<LI>Starting from Fall 2019, I am a visiting PhD student at UC Berkeley supervised by Professor Trevor Darrell. Meanwhile, I am a student researcher at Google AI Research.</LI>
+<LI>Our work on Image Photorealistic Style Transfer “Joint Bilateral Learning for Fast Universal Photorealistic Style Transfer.” is accepted by ECCV 2020! [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/pdf/2004.10955.pdf)</LI>
+<LI>During Fall 2019 and Spring 2020, I am a student researcher at Google AI Research.</LI>
 <LI>Our new paper: "Moment Matching for Multi-Source Domain Adaptation" is accepted by ICCV 2019! It is posted <a href="https://arxiv.org/abs/1812.01754">here</a>. </LI>
 <LI>In Summer 2019, I worked as a Research Intern at Google AI Research.</LI>
 <LI>Our new paper: "Deep Metric Learning to Rank" is accepted by CVPR 2019! It is posted <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Cakir_Deep_Metric_Learning_to_Rank_CVPR_2019_paper.pdf">here</a>. </LI>
@@ -65,13 +66,13 @@ For more information, welcome to my <a href="https://scholar.harvard.edu/xidexia
 
 
 #### 2020
-[P.7] <b>Xide Xia</b>, Tianfan Xue, Wei-sheng Lai, Zheng Sun, Abby Chang, Brian Kulis, Jiawen Chen. “Real-time Localized Photorealistic Video Style Transfer.” Under reviewing. [![pdf](../icons16/pdf-icon.png)](http://cs-people.bu.edu/xidexia/VST0.pdf)
+[P.7] <b>Xide Xia</b>, Tianfan Xue, Wei-sheng Lai, Zheng Sun, Abby Chang, Brian Kulis, Jiawen Chen. “Real-time Localized Photorealistic Video Style Transfer.” Under reviewing. [![pdf](../icons16/pdf-icon.png)](http://cs-people.bu.edu/xidexia/VST.pdf)
 <td><img src="../pages/pub_pics/vst_teaser.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
 
 [P.6] <b>Xide Xia</b>, Meng Zhang, Tianfan Xue, Zheng Sun, Hui Fang, Brian Kulis, Jiawen Chen. “Joint Bilateral Learning for
-Fast Universal Photorealistic Style Transfer.” Under reviewing. [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/pdf/2004.10955.pdf)
+Fast Universal Photorealistic Style Transfer.” The European Conference on Computer Vision (ECCV) 2020. [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/pdf/2004.10955.pdf)
 <td><img src="../pages/pub_pics/cvpr_2020.png" title="cvpr_2020" alt="cvpr_2020" height="200"/> </td>
 ---
 <td>  </td>

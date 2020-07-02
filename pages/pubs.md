@@ -11,8 +11,9 @@ description: Xide Xia's publications
 <td>  </td>
 
 [P.6] <b>Xide Xia</b>, Meng Zhang, Tianfan Xue, Zheng Sun, Hui Fang, Brian Kulis, Jiawen Chen. “Joint Bilateral Learning for
-Fast Universal Photorealistic Style Transfer.” Under reviewing. [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/pdf/2004.10955.pdf)
+Fast Universal Photorealistic Style Transfer.” The European Conference on Computer Vision (ECCV) 2020. [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/pdf/2004.10955.pdf)
 <td><img src="../pages/pub_pics/cvpr_2020.png" title="cvpr_2020" alt="cvpr_2020" height="200"/> </td>
+
 ---
 <td>  </td>
 

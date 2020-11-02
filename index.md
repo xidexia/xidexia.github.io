@@ -45,12 +45,13 @@ For more information, welcome to my <a href="https://scholar.harvard.edu/xidexia
 
 ---
 <h4><a name="news"></a>What's New</h4>
-
-<LI>Our work on Image Photorealistic Style Transfer “Joint Bilateral Learning for Fast Universal Photorealistic Style Transfer.” is accepted by ECCV 2020! </LI>
+<LI>Our work on Video Photorealistic Style Transfer “Real-time Localized Photorealistic Video Style Transfer.” is accepted to WACV 2021! </LI>
+<LI>Our new paper “Learning to Approximate a Bregman Divergence.” is accepted to NeurIPS 2020! </LI>
+<LI>Our work on Image Photorealistic Style Transfer “Joint Bilateral Learning for Real-time Universal Photorealistic Style Transfer.” is accepted to ECCV 2020! </LI>
 <LI>During Fall 2019 and Spring 2020, I am a student researcher at Google AI Research.</LI>
-<LI>Our new paper: "Moment Matching for Multi-Source Domain Adaptation" is accepted by ICCV 2019! It is posted <a href="https://arxiv.org/abs/1812.01754">here</a>. </LI>
+<LI>Our new paper: "Moment Matching for Multi-Source Domain Adaptation" is accepted to ICCV 2019! It is posted <a href="https://arxiv.org/abs/1812.01754">here</a>. </LI>
 <LI>In Summer 2019, I worked as a Research Intern at Google AI Research.</LI>
-<LI>Our new paper: "Deep Metric Learning to Rank" is accepted by CVPR 2019! It is posted <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Cakir_Deep_Metric_Learning_to_Rank_CVPR_2019_paper.pdf">here</a>. </LI>
+<LI>Our new paper: "Deep Metric Learning to Rank" is accepted to CVPR 2019! It is posted <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Cakir_Deep_Metric_Learning_to_Rank_CVPR_2019_paper.pdf">here</a>. </LI>
 <LI>We release the M3SDA dataset. It is by far the largest unsupervised domain adaptation (UDA) dataset with six distinct domains and approximately 0.6 million images distributed among 345 categories, addressing the gap in data availability for multi-source UDA research. You can find it <a href="http://ai.bu.edu/M3SDA/">here</a>.</LI>
 <LI>In Fall 2018, I am the Teaching Assistant for course EC500/CS591-K1 Deep Learning. My office hours are on Mon and Wed during 4:30-6:30 pm at the CS Lab. </LI>
 <LI>In Summer 2018, I work as a SWE-PhD intern at Google.</LI>
@@ -66,8 +67,13 @@ For more information, welcome to my <a href="https://scholar.harvard.edu/xidexia
 
 
 #### 2020
-[P.7] <b>Xide Xia</b>, Tianfan Xue, Wei-sheng Lai, Zheng Sun, Abby Chang, Brian Kulis, Jiawen Chen. “Real-time Localized Photorealistic Video Style Transfer.” Under reviewing. [![pdf](../icons16/pdf-icon.png)](http://cs-people.bu.edu/xidexia/VST.pdf)
+[P.8] <b>Xide Xia</b>, Tianfan Xue, Wei-sheng Lai, Zheng Sun, Abby Chang, Brian Kulis, Jiawen Chen. “Real-time Localized Photorealistic Video Style Transfer.” Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2021. [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/abs/2010.10056)
 <td><img src="../pages/pub_pics/vst_teaser.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+---
+<td>  </td>
+
+[P.7] Ali Siahkamari, <b>Xide Xia</b>, Venkatesh Saligrama, David Castañón, Brian Kulis. “Learning to Approximate a Bregman Divergence.” Advances in Neural Information Processing Systems (NeurIPS), 2020.[![pdf](../icons16/pdf-icon.png)]
+<td><img src="../pages/pub_pics/nips2020.png" title="nips2020.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
 

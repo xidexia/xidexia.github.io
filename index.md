@@ -53,14 +53,6 @@ For more information, welcome to my <a href="https://scholar.harvard.edu/xidexia
 <LI>In Summer 2019, I worked as a Research Intern at Google AI Research.</LI>
 <LI>Our new paper: "Deep Metric Learning to Rank" is accepted to CVPR 2019! It is posted <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Cakir_Deep_Metric_Learning_to_Rank_CVPR_2019_paper.pdf">here</a>. </LI>
 <LI>We release the M3SDA dataset. It is by far the largest unsupervised domain adaptation (UDA) dataset with six distinct domains and approximately 0.6 million images distributed among 345 categories, addressing the gap in data availability for multi-source UDA research. You can find it <a href="http://ai.bu.edu/M3SDA/">here</a>.</LI>
-<LI>In Fall 2018, I am the Teaching Assistant for course EC500/CS591-K1 Deep Learning. My office hours are on Mon and Wed during 4:30-6:30 pm at the CS Lab. </LI>
-<LI>In Summer 2018, I work as a SWE-PhD intern at Google.</LI>
-<LI>From Fall 2017 to Spring 2018, I work as a research intern at Legendary Applied Analytics.</LI>
-<LI>Our new paper: "W-Net: A Deep Model for Fully Unsupervised Image Segmentation" posted <a href="https://arxiv.org/abs/1711.08506">here</a>. </LI>
-<LI>I am very honored and thankful to have received the Dean’s Fellow Scholarship 2017!</LI>
-<LI>In Fall 2016, I am the Teaching Assistant for course CS131 Combinatoric Structures.</LI>
-<LI>I am very honored and thankful to have received the Harvard IACS Student Scholarship 2016!</LI>
-<LI>Our new paper "Cost-Sensitive Batch Mode Active learning: Designing Astronomical Observation by Optimizing Telescope Time and Telescope Choice." has just been accepted by In Proceedings of SIAM Data Mining Conference (SDM) 2016. <a href="http://scholar.harvard.edu/files/xidexia/files/cbal_sdm16.pdf?m=1454015519">pdf</a>.</LI>
 
 ---
 <h4><a name="publication"></a>Publications</h4>

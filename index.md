@@ -45,9 +45,9 @@ For more information, welcome to my <a href="https://scholar.harvard.edu/xidexia
 
 ---
 <h4><a name="news"></a>What's New</h4>
-<LI>Our work on Video Photorealistic Style Transfer “Real-time Localized Photorealistic Video Style Transfer.” is accepted to WACV 2021! </LI>
+<LI>Our new paper “Real-time Localized Photorealistic Video Style Transfer.” is accepted to WACV 2021! </LI>
 <LI>Our new paper “Learning to Approximate a Bregman Divergence.” is accepted to NeurIPS 2020! </LI>
-<LI>Our work on Image Photorealistic Style Transfer “Joint Bilateral Learning for Real-time Universal Photorealistic Style Transfer.” is accepted to ECCV 2020! </LI>
+<LI>Our new paper “Joint Bilateral Learning for Real-time Universal Photorealistic Style Transfer.” is accepted to ECCV 2020! </LI>
 <LI>During Fall 2019 and Spring 2020, I am a student researcher at Google AI Research.</LI>
 <LI>Our new paper: "Moment Matching for Multi-Source Domain Adaptation" is accepted to ICCV 2019! It is posted <a href="https://arxiv.org/abs/1812.01754">here</a>. </LI>
 <LI>In Summer 2019, I worked as a Research Intern at Google AI Research.</LI>

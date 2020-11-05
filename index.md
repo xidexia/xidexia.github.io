@@ -64,7 +64,7 @@ For more information, welcome to my <a href="https://scholar.harvard.edu/xidexia
 ---
 <td>  </td>
 
-[P.7] Ali Siahkamari, <b>Xide Xia</b>, Venkatesh Saligrama, David Castañón, Brian Kulis. “Learning to Approximate a Bregman Divergence.” Advances in Neural Information Processing Systems (NeurIPS), 2020.[![pdf](../icons16/pdf-icon.png)]
+[P.7] Ali Siahkamari, <b>Xide Xia</b>, Venkatesh Saligrama, David Castañón, Brian Kulis. “Learning to Approximate a Bregman Divergence.” Advances in Neural Information Processing Systems (NeurIPS), 2020.[![pdf](../icons16/pdf-icon.png)](https://arxiv.org/abs/1905.11545)
 <td><img src="../pages/pub_pics/nips2020.png" title="nips2020.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>

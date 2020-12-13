@@ -33,7 +33,7 @@ I am a research scientist at <a href="https://ai.facebook.com/">Facebook AI</a> 
 <br/>
 Before BU, I was a ME student in <a href="http://iacs.seas.harvard.edu/">Computational Science and Engineering</a> at Harvard. During 2013 and 2016, I've been fortunate to work with Dr. Mohammed AlQuraishi and Professor Peter Soger at the Sorger Lab and the Laboratory of Systems Pharmacology at Harvard Medical School.  
 <br/>
-<br/>
+<br/> </td>
 <td><img src="../assets/pics/xidexia.jpg" title="Xide Xia" alt="Xide Xia" height="600"/> </td>
 </tr>
 </table>

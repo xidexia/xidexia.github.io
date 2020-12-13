@@ -43,6 +43,7 @@ Before BU, I was a ME student in <a href="http://iacs.seas.harvard.edu/">Computa
 
 ---
 <h4><a name="news"></a>What's New</h4>
+<LI>I have graduated with my Ph.D. degree from BU. I will join Facebook AI in December 2020.</LI>
 <LI>Our new paper “Real-time Localized Photorealistic Video Style Transfer.” is accepted to WACV 2021! </LI>
 <LI>Our new paper “Learning to Approximate a Bregman Divergence.” is accepted to NeurIPS 2020! </LI>
 <LI>Our new paper “Joint Bilateral Learning for Real-time Universal Photorealistic Style Transfer.” is accepted to ECCV 2020! </LI>
@@ -50,8 +51,6 @@ Before BU, I was a ME student in <a href="http://iacs.seas.harvard.edu/">Computa
 <LI>Our new paper: "Moment Matching for Multi-Source Domain Adaptation" is accepted to ICCV 2019! It is posted <a href="https://arxiv.org/abs/1812.01754">here</a>. </LI>
 <LI>In Summer 2019, I worked as a Research Intern at Google AI Research.</LI>
 <LI>Our new paper: "Deep Metric Learning to Rank" is accepted to CVPR 2019! It is posted <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Cakir_Deep_Metric_Learning_to_Rank_CVPR_2019_paper.pdf">here</a>. </LI>
-<LI>We release the M3SDA dataset. It is by far the largest unsupervised domain adaptation (UDA) dataset with six distinct domains and approximately 0.6 million images distributed among 345 categories, addressing the gap in data availability for multi-source UDA research. You can find it <a href="http://ai.bu.edu/M3SDA/">here</a>.</LI>
-
 ---
 <h4><a name="publication"></a>Publications</h4>
 

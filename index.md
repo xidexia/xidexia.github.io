@@ -7,7 +7,6 @@ title: Xide Xia - CS @ Boston University
 <div class="navbar">
 <div class="navbar-inner">
 <ul class="nav">
-<li><a href="{{ BASE_PATH }}/assets/xide_xia_cv_bu.pdf">CV</a></li>
 <li><a href="https://www.linkedin.com/in/xide-xia-21227853/">LinkedIn</a></li>
 <li><a href="https://github.com/xidexia">Github</a></li>
 <li><a href="https://scholar.google.com/citations?user=FHLTntIAAAAJ">Google Scholar</a></li>
@@ -26,13 +25,13 @@ Last Update: June, 10<sup>th</sup>, 2020.
 <div class="span8">
 <table>
 <tr>
-<td> Hello! My name is Xide Xia ( pronounced as 'Hseede Hsiah'). I was named after Xide Xie, who is a famous Chinese physicist as well as the first woman president of a major comprehensive university in China. 
+<td> Hello! My name is Xide Xia ( pronounced as 'Hsi-teh Hsiah'). I was named after Xide Xie, who is a famous Chinese physicist as well as the first woman president of a major comprehensive university in China. 
 <br/>
 <br/>
-I am a Ph.D. student in the <a href="http://www.bu.edu/cs/">Computer Science Department</a> at Boston University. I am advised by Professor <a href="http://people.bu.edu/bkulis/">Brian Kulis</a>. I work as a research assistant in <a href="https://www.bu.edu/cs/ivc/">the Image and Video Computing (IVC)</a> lab. My academic interests broadly include image/video style transfer learning, attribute-based models, segmentation, and metric learning for retrieval.
+I am a research scientist at <a href="https://ai.facebook.com/">Facebook AI</a> . I got my Ph.D. degree from the <a href="http://www.bu.edu/cs/">Computer Science Department</a> at Boston University advised by Professor <a href="http://people.bu.edu/bkulis/">Brian Kulis</a>. My academic interests broadly include image/video style transfer learning, attribute-based models, segmentation, and metric learning for retrieval.
 <br/>
 <br/>
-Before BU, I was a ME student in <a href="http://iacs.seas.harvard.edu/">Computational Science and Engineering</a> at Harvard. During 2013 and 2016, I've been fortunate to work with Dr. Mohammed AlQuraishi and Professor Peter Soger at the Sorger Lab and the Laboratory of Systems Pharmacology at Harvard Medical School.  Before coming to Harvard, I received my M.S. degree in Electrical Engineering at Brown University. During my undergraduate at Beijing Institute of Technology, I studied in Information and Electrical Engineering.
+Before BU, I was a ME student in <a href="http://iacs.seas.harvard.edu/">Computational Science and Engineering</a> at Harvard. During 2013 and 2016, I've been fortunate to work with Dr. Mohammed AlQuraishi and Professor Peter Soger at the Sorger Lab and the Laboratory of Systems Pharmacology at Harvard Medical School.  
 <br/>
 <br/>
 For more information, welcome to my <a href="https://scholar.harvard.edu/xidexia">previous webpage</a>.</td>

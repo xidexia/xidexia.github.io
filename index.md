@@ -18,7 +18,7 @@ title: Xide Xia - Facebook AI
 
 Welcome! You're the <a href='http://www.counter12.com'><img src='http://www.counter12.com/img-w627ab6c7b5DcZb4-3.gif' border='0' alt='conter12'></a><script type='text/javascript' src='http://www.counter12.com/ad.js?id=w627ab6c7b5DcZb4'></script><sup>th</sup> vistor here.
 
-Last Update: June, 10<sup>th</sup>, 2020.
+Last Update: December, 4<sup>th</sup>, 2020.
 
 ---
 <div class="container">
@@ -43,7 +43,7 @@ Before BU, I was a ME student in <a href="http://iacs.seas.harvard.edu/">Computa
 
 ---
 <h4><a name="news"></a>What's New</h4>
-<LI>I have graduated with my Ph.D. degree from BU. I will join Facebook AI in December 2020.</LI>
+<LI>I have graduated with my Ph.D. degree from BU. I will join Facebook AI in December 2020. This website will no longer updated frequently.</LI>
 <LI>Our new paper “Real-time Localized Photorealistic Video Style Transfer.” is accepted to WACV 2021! </LI>
 <LI>Our new paper “Learning to Approximate a Bregman Divergence.” is accepted to NeurIPS 2020! </LI>
 <LI>Our new paper “Joint Bilateral Learning for Real-time Universal Photorealistic Style Transfer.” is accepted to ECCV 2020! </LI>

@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Xide Xia - Facebook
+title: Xide Xia - Facebook AI
 <li><a href="https://xidexiasite.wordpress.com/">Blogs</a></li>
 ---
 
@@ -111,12 +111,8 @@ Conference on Computer Vision and Pattern Recognition (CVPR) 2019. [![pdf](../ic
 <div class="span5">
 Xide Xia<br/>
 <div id="hide_email">
-Email: xidexia@bu.edu <br/>
-<a href="http://www.bu.edu/cs/">Department of Computer Science</a><br/>
-<a href="http://www.bu.edu">Boston University</a><br/>
-111 Cummington Mall<br/>
-Boston, MA 02215<br/>
-USA<br/><br/>
+Email: xidexia@gmail.com <br/>
+
 
 </div>
 </div>

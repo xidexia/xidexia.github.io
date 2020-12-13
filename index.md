@@ -43,7 +43,7 @@ Before BU, I was a ME student in <a href="http://iacs.seas.harvard.edu/">Computa
 
 ---
 <h4><a name="news"></a>What's New</h4>
-<LI>I have graduated with my Ph.D. degree from BU. I will join Facebook AI in December 2020. This website will no longer updated frequently.</LI>
+<LI>I have graduated with my Ph.D. degree from BU. I will join Facebook AI in December 2020. This website will be updated infrequently.</LI>
 <LI>Our new paper “Real-time Localized Photorealistic Video Style Transfer.” is accepted to WACV 2021! </LI>
 <LI>Our new paper “Learning to Approximate a Bregman Divergence.” is accepted to NeurIPS 2020! </LI>
 <LI>Our new paper “Joint Bilateral Learning for Real-time Universal Photorealistic Style Transfer.” is accepted to ECCV 2020! </LI>

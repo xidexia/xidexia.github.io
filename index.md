@@ -27,7 +27,10 @@ Last Update: December, 4<sup>th</sup>, 2020.
 <td> Hello! My name is Xide Xia ( pronounced as 'Hsi-teh Hsiah'). I was named after Xide Xie, who is a famous Chinese physicist as well as the first woman president of a major comprehensive university in China. 
 <br/>
 <br/>
-I am a research scientist at <a href="https://ai.facebook.com/">Facebook AI</a> . I got my Ph.D. degree from the <a href="http://www.bu.edu/cs/">Computer Science Department</a> at Boston University advised by Professor <a href="http://people.bu.edu/bkulis/">Brian Kulis</a>. My academic interests broadly include image/video style transfer learning, attribute-based models, segmentation, and metric learning for retrieval.
+I am a research scientist at <a href="https://ai.facebook.com/">Facebook AI</a>. My research interests broadly include multi-modal multi-task learning, retrieval task, style transfer learning, and attribute-based models. 
+<br/>
+<br/>
+I earned my Ph.D. degree from the <a href="http://www.bu.edu/cs/">Computer Science Department</a> at Boston University, advised by Professor <a href="http://people.bu.edu/bkulis/">Brian Kulis</a>. During my PhD, I have spent two summers full-time interning at Google Research. I was also a part-time student researcher at Google Research and Legendary Research.
 <br/>
 <br/>
 Before BU, I was a ME student in <a href="http://iacs.seas.harvard.edu/">Computational Science and Engineering</a> at Harvard. During 2013 and 2016, I've been fortunate to work with Dr. Mohammed AlQuraishi and Professor Peter Soger at the Sorger Lab and the Laboratory of Systems Pharmacology at Harvard Medical School.  
@@ -42,7 +45,7 @@ Before BU, I was a ME student in <a href="http://iacs.seas.harvard.edu/">Computa
 
 ---
 <h4><a name="news"></a>What's New</h4>
-<LI>I have graduated with my Ph.D. degree from BU. I will join Facebook AI in December 2020. This website will be updated infrequently.</LI>
+<LI>I have graduated with my Ph.D. degree from BU. I will join Facebook AI in December 2020.</LI>
 <LI>Our new paper “Real-time Localized Photorealistic Video Style Transfer.” is accepted to WACV 2021! </LI>
 <LI>Our new paper “Learning to Approximate a Bregman Divergence.” is accepted to NeurIPS 2020! </LI>
 <LI>Our new paper “Joint Bilateral Learning for Real-time Universal Photorealistic Style Transfer.” is accepted to ECCV 2020! </LI>
@@ -54,12 +57,13 @@ Before BU, I was a ME student in <a href="http://iacs.seas.harvard.edu/">Computa
 <h4><a name="publication"></a>Publications</h4>
 
 
-#### 2020
+#### 2021
 [P.8] <b>Xide Xia</b>, Tianfan Xue, Wei-sheng Lai, Zheng Sun, Abby Chang, Brian Kulis, Jiawen Chen. “Real-time Localized Photorealistic Video Style Transfer.” Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2021. [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/abs/2010.10056)
 <td><img src="../pages/pub_pics/vst_teaser.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
 
+#### 2020
 [P.7] Ali Siahkamari, <b>Xide Xia</b>, Venkatesh Saligrama, David Castañón, Brian Kulis. “Learning to Approximate a Bregman Divergence.” Advances in Neural Information Processing Systems (NeurIPS), 2020.[![pdf](../icons16/pdf-icon.png)](https://arxiv.org/abs/1905.11545)
 <td><img src="../pages/pub_pics/nips2020.png" title="nips2020.png" alt="vst_teaser.png" height="200"/> </td>
 ---
@@ -109,7 +113,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR) 2019. [![pdf](../ic
 <div class="span5">
 Xide Xia<br/>
 <div id="hide_email">
-Email: xidexia@gmail.com <br/>
+Email: xidexia [AT] gmail [dot] com <br/>
 
 
 </div>

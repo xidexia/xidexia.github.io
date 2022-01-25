@@ -20,7 +20,7 @@ Before BU, I was a ME student in <a href="http://iacs.seas.harvard.edu/">Computa
 <div class="span5">
 Xide Xia<br/>
 <div id="hide_email">
-Email: xidexia@gmail.com <br/>
+Email: xidexia [AT] gmail [dot] com <br/>
 
 </div>
 </div>

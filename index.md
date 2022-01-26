@@ -30,7 +30,7 @@ Last Update: December, 4<sup>th</sup>, 2020.
 I am a research scientist at <a href="https://ai.facebook.com/">Facebook AI</a>. My research interests broadly include multi-modal multi-task learning, retrieval task, style transfer learning, and attribute-based models. 
 <br/>
 <br/>
-I earned my Ph.D. degree from the <a href="http://www.bu.edu/cs/">Computer Science Department</a> at Boston University, advised by Professor <a href="http://people.bu.edu/bkulis/">Brian Kulis</a>. During my PhD, I have spent two summers full-time interning at Google Research. I was also a part-time student researcher at Google Research and Legendary Research.
+I earned my Ph.D. degree from the <a href="http://www.bu.edu/cs/">Computer Science Department</a> at Boston University, advised by Professor <a href="http://people.bu.edu/bkulis/">Brian Kulis</a>. During my PhD, I have spent two summers full-time interning at Google. I was also a part-time student researcher at Google Research and Legendary Research.
 <br/>
 <br/>
 Before BU, I was a ME student in <a href="http://iacs.seas.harvard.edu/">Computational Science and Engineering</a> at Harvard. During 2013 and 2016, I've been fortunate to work with Dr. Mohammed AlQuraishi and Professor Peter Soger at the Sorger Lab and the Laboratory of Systems Pharmacology at Harvard Medical School.  

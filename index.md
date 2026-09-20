@@ -27,7 +27,7 @@ Last Update: September, 4<sup>th</sup>, 2026.
 <td> Hello! My name is Xide Xia ( pronounced as 'Hsi-teh Hsiah'). I was named after Xide Xie, who is a famous Chinese physicist as well as the first woman president of a major comprehensive university in China. 
 <br/>
 <br/>
-I am an AI researcher and the Co-Founder of  <a href="https://www.steadyworks.ai/">Steadyworks</a>. As a data research lab powering next generation AI, we pioneer data research to benchmark and advance AI at its capability boundary. We’re hiring top talents!
+I am an AI researcher and the Co-Founder of  <a href="https://www.steadyworks.ai/">Steadyworks</a>. We pioneer data research to benchmark and advance AI at its capability boundary. We’re hiring top talents!
 <br/>
 <br/>
 Previously, I was a research scientist at Meta GenAI / MSL, working on Llama Post-training. My research interests broadly include multi-modal multi-task learning, retrieval task, style transfer learning, and attribute-based models. 

@@ -17,7 +17,7 @@ title: Xide Xia - Facebook AI
 
 Welcome! You're the <a href='http://www.counter12.com'><img src='http://www.counter12.com/img-w627ab6c7b5DcZb4-3.gif' border='0' alt='conter12'></a><script type='text/javascript' src='http://www.counter12.com/ad.js?id=w627ab6c7b5DcZb4'></script><sup>th</sup> vistor here.
 
-Last Update: December, 4<sup>th</sup>, 2020.
+Last Update: September, 4<sup>th</sup>, 2026.
 
 ---
 <div class="container">
@@ -27,7 +27,10 @@ Last Update: December, 4<sup>th</sup>, 2020.
 <td> Hello! My name is Xide Xia ( pronounced as 'Hsi-teh Hsiah'). I was named after Xide Xie, who is a famous Chinese physicist as well as the first woman president of a major comprehensive university in China. 
 <br/>
 <br/>
-I am a research scientist at <a href="https://ai.facebook.com/">Facebook AI</a>. My research interests broadly include multi-modal multi-task learning, retrieval task, style transfer learning, and attribute-based models. 
+I am an AI researcher and the Co-Founder of  <a href="https://www.steadyworks.ai/">Steadyworks</a>. As a data research lab powering next generation AI, we pioneer data research to benchmark and advance AI at its capability boundary. We’re hiring top talents!
+<br/>
+<br/>
+Previously, I was a research scientist at Meta GenAI / MSL, working on Llama Post-training. My research interests broadly include multi-modal multi-task learning, retrieval task, style transfer learning, and attribute-based models. 
 <br/>
 <br/>
 I earned my Ph.D. degree from the <a href="http://www.bu.edu/cs/">Computer Science Department</a> at Boston University, advised by Professor <a href="http://people.bu.edu/bkulis/">Brian Kulis</a>. During my PhD, I have spent two summers full-time interning at Google Research. I was also a part-time student researcher at Google Research and Legendary Research.
@@ -45,6 +48,7 @@ Before BU, I was a ME student in <a href="http://iacs.seas.harvard.edu/">Computa
 
 ---
 <h4><a name="news"></a>What's New</h4>
+<LI>I have left Meta and am building a data research company <a href="https://www.steadyworks.ai/">Steadyworks</a>.</LI>
 <LI>I have graduated with my Ph.D. degree from BU. I will join Facebook AI in December 2020.</LI>
 <LI>Our new paper “Real-time Localized Photorealistic Video Style Transfer.” is accepted to WACV 2021! </LI>
 <LI>Our new paper “Learning to Approximate a Bregman Divergence.” is accepted to NeurIPS 2020! </LI>
